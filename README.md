@@ -8,7 +8,6 @@ I was always the sales person that stayed behind to talk to the software develop
 
 Since then I interned for three months at mPulse Mobile as a Data Engineer mostly working in Python 3.9, Postgresql, and Airflow.
 
-Since wrapping up the internship end of June I have been looking for a full time, permanent software-engineering position while I continue to upskill.
 
 I am currently taking Computer Science classes at [Binghamton](https://www.binghamton.edu/watson/about/) (my alma mater) Watson School of Engineering, including:
 - [Intro to Java](https://www.binghamton.edu/watson/continuing-education/data-science/java.html)
@@ -17,15 +16,12 @@ I am currently taking Computer Science classes at [Binghamton](https://www.bingh
 - [Python Programming Level 2](https://www.binghamton.edu/watson/continuing-education/data-science/python-programming-level-2.html
 )
 
-Switching careers has been the most humbling experience of my life thus far but also the most fruitful for my aspirations of being a serial tech entreprenuer.
-
-I am looking to learn how to develop and scale products at my next full time position as a software engineer.
 
 ![me](me.png)
 
 ### Values I deeply care about
 
-- `Humility`: I am confident in general but when it comes to engineering I will always default to being painfully humble. Switching careers and starting all the way from the bottom again is humbling.
+- `Humility`: I am confident in general but when it comes to engineering I will always default to being painfully humble. Switching gears starting all the way from the bottom again is humbling.
 - `Customer Obsession`: not a shocker since I started my career out of college in a customer facing role. I care deeply about going the extra mile for customers and building products that start with research and customer need
 - `Clarity & Consistency`: say what you mean and mean what you say. I am always striving to bringing clarity and consistency between my words and my subsequent related behaviors and actions
 - `Growth Mindset`- I am always looking to learn and discover ways of doing things better and faster.
